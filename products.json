@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Apple Watch",
+      "price": 15990,
+      "description": "Apple Watch can do what your other devices can’t because it’s on your wrist.",
+      "src": "/assets/img/Apple_Watch01.png"
+    },
+    {
+      "name": "Airpods",
+      "price": 9490,
+      "description": "More magical than ever. The new AirPods deliver the wireless headphone experience, reimagined.",
+      "src": "/assets/img/Airpods_01.png"
+    },
+    {
+      "name": "MacBook",
+      "price": 71990,
+      "description": "It’s here. Our first chip designed specifically for Mac. Packed so much more onto a single tiny chip.",
+      "src": "/assets/img/MacBook_Air_01.png"
+    }
+  ]
+}
